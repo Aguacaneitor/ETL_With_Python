@@ -95,4 +95,4 @@ def sqlToCSV(querry, destino, nombre=date.today().strftime("%d-%m-%Y"), DB="arco
         print("No procesado Sql To CSV")
 
 
-print("hola mundo")
+print("Hola Python")
